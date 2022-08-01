@@ -1,0 +1,74 @@
+<html>
+  <body>
+    <table cellspacing=15>
+      <tr>
+        <td>
+          <img src="https://media-exp1.licdn.com/dms/image/C5603AQHQPHaa8ByWhQ/profile-displayphoto-shrink_200_200/0/1644846435143?e=1659571200&v=beta&t=SEtg17C8-T8fWjQo9jhEHtOGOUIpRZHc6U37UUnmCG4">
+        </td>
+        <td>
+          <h1>Krishang Shukla</h1>
+           <p><em>Just a student at <strong>BITS-Pilani, Hyderabad campus.</strong></em></p>
+        </td>
+    </table>
+    <hr>
+    <h3>Education</h3>
+    <p><em><strong>1)JHASV<br>2)Allen<br>3)BITS</strong></em></p>
+    <hr>
+    <p><strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/krishang-shukla-2779a8223/"> Krishang Shukla </a>
+      <table border=1>
+        <tr>
+          <td>Contact</td>
+          <td>+91 78992 31245</td>
+        </tr>
+        <tr>
+          <td>Mail</td>
+          <td>xyz@email.com</td>
+        </tr>
+    </table>
+    <hr>
+    <h3>Skills</h3>
+    <table>
+      <tr>
+        <td>
+        <table>
+          <tr>
+            <td>
+              <tr>
+                 <td>C</td>
+            <td>⭐⭐⭐</td>
+               </tr>
+              <tr>
+                <td>C++</td>
+                <td>⭐</td>
+              </tr>
+              <tr>
+                <td>HTML</td>
+                <td>⭐⭐⭐⭐</td>
+              </tr>   
+          </td>
+         </tr>
+        </table>
+        </td>
+        <td>
+          <table>            
+             <tr>
+              <td>Java</td>
+              <td>⭐</td>
+             </tr>
+            <tr>
+              <td>JS</td>
+              <td>⭐</td>
+             </tr>
+            <tr>
+              <td>Python</td>
+              <td>⭐⭐⭐⭐</td>
+             </tr>
+          </table>
+      </tr>
+    </table>
+    <hr>
+    <p>Want to talk to me?
+    <a href="https://codepen.io/KrishangS/pen/LYdeejz">Click Here</a>
+    </p>
+  </body>
+</html>
